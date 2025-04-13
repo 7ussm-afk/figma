@@ -328,7 +328,7 @@ p {
     width: 220px;
 }
 .promotion-content {
-    width: 40%; /* Adjust this to control left content width */
+    width: 40%; 
 }
 
 .promotion-heading {
@@ -653,7 +653,6 @@ h1 {
     }
 }
 
-/* Responsive adjustments for the main section */
 /* iPhone 14 Pro Max (428px and below) */
 @media screen and (max-width: 428px) {
     .navbar {
